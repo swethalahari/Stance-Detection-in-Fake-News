@@ -1,6 +1,6 @@
 # Stance-Detection in Fake News
 Deep Neural Network using word embedding to detecting stances
-The probelm is organized around the more well-defined problem of “stance detection,” which involves comparing a headline with a body of text from a news article to determine what relationship (if any) exists between the two.  
+The problem is organized around the more well-defined problem of “stance detection,” which involves comparing a headline with a body of text from a news article to determine what relationship (if any) exists between the two.  
 # There are 4 possible classifications:  
 1.The article text agrees with the headline.  
 2.The article text disagrees with the headline.  
